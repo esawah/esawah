@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- ![https://www.instagram.com/pulchra_noctee/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -->
 
-[![https://www.instagram.com/pulchra_noctee/](https://skillicons.dev/icons?i=instagram,&theme=light)](https://skillicons.dev)[![https://www.linkedin.com/in/esa-kurniawan-putra-719347343/](https://skillicons.dev/icons?i=linkedin,&theme=light)](https://skillicons.dev)
+[![https://www.instagram.com/pulchra_noctee/](https://skillicons.dev/icons?i=instagram,&theme=light)](https://www.instagram.com/pulchra_noctee/)[![https://www.linkedin.com/in/esa-kurniawan-putra-719347343/](https://skillicons.dev/icons?i=linkedin,&theme=light)](https://www.linkedin.com/in/esa-kurniawan-putra-719347343/)
 
 ## <!-- ![https://www.linkedin.com/in/esa-kurniawan-putra-719347343/](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
