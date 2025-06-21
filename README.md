@@ -41,8 +41,3 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/esawah/esawah/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/esawah/esawah/output/snake.svg" alt="Snake animation" />
-
-###
